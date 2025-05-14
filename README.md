@@ -35,7 +35,7 @@ O objetivo é manter uma página principal onde posso adicionar e exibir meus pr
 
 **André Araujo**  
 📧 [andre.wgns97@gmail.com](mailto:andre.wgns97@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/seuperfil) _(adicione se tiver)_  
+🔗 [LinkedIn](https://www.linkedin.com/in/andre-araujo-236807227/)  
 🌐 Projeto: [https://github.com/andre-gns/Portfolio](https://github.com/andre-gns/Portfolio)
 
 ---
