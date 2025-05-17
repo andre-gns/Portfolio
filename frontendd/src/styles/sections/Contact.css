@@ -1,0 +1,52 @@
+.contact-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.contact-list li {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+  min-width: 200px;
+}
+
+.contact-list li:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.contact-list li i {
+  font-size: 1.5rem;
+  color: var(--accent-color);
+  width: 30px;
+  text-align: center;
+}
+
+.contact-list li span {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+@media (max-width: 768px) {
+  .contact-list {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .contact-list li {
+    width: 100%;
+    padding: 0.8rem;
+  }
+}

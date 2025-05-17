@@ -1,0 +1,10 @@
+.about-card {
+  text-align: center;
+  min-width: 1.8rem;
+}
+
+.about-card p {
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
