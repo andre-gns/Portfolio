@@ -24,10 +24,6 @@ O objetivo é manter uma página principal onde posso adicionar e exibir meus pr
 
 ---
 
-## 🗂️ Banco de Dados e API
-
----
-
 ## 📫 Contato
 
 **André Araujo**  
