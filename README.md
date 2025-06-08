@@ -26,9 +26,6 @@ O objetivo é manter uma página principal onde posso adicionar e exibir meus pr
 
 ## 🗂️ Banco de Dados e API
 
-- 🔧 **Em construção**  
-  Em breve, integração com banco de dados e API personalizada para gerenciamento dos projetos.
-
 ---
 
 ## 📫 Contato
