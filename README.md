@@ -18,7 +18,6 @@ O objetivo é manter uma página principal onde posso adicionar e exibir meus pr
 ### 🎨 Frontend
 
 - **React 19.1.0**
-- **CSS moderno**
 - **Sistema de temas dinâmico**
 - **Testes automatizados com Jest e Testing Library**
 
